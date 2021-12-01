@@ -1,0 +1,9 @@
+.container-iniciosesion{
+    display: grid;
+    grid-template-columns: repeat(2, 60%);
+    height: 100vh;
+}
+.imagenca{
+    width: 60%;
+    height: 60%;
+}
